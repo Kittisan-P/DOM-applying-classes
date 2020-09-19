@@ -5,10 +5,10 @@ document.addEventListener('DOMContentLoaded', start)
 
 function start () {
   // The first example is done for you. Uncomment the line below and reload the browser.
-   one()
-   two()
-   three()
-   makeVisible()
+   one();
+   two();
+   three();
+   makeVisible();
       
   // Your turn! Create a new function called `two`, then call it from here.
 }
